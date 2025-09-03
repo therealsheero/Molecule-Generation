@@ -90,5 +90,6 @@ conda install -c conda-forge rdkit
   O=C(O)C1=CC=CC=C1
   ```
 * Molecules can be visualized using RDKit.
+![Generated Molecules](output.png)
 
 ---
