@@ -7,7 +7,7 @@ A PyTorch-based implementation for **de novo molecular generation** using **SMIL
 ## Project Structure
 
 ```
-SMILES_Gen.ipynb   # Main Jupyter Notebook for training & generation
+SMILES_Generation.ipynb   # Main Jupyter Notebook for training & generation
 /datasets/
     ChEMBL.txt     # Dataset containing SMILES strings
     atom_types.txt # List of atom types used in molecule construction
@@ -70,7 +70,7 @@ conda install -c conda-forge rdkit
 2. Open the notebook:
 
    ```bash
-   jupyter notebook SMILES_Gen.ipynb
+   jupyter notebook SMILES_Generation.ipynb
    ```
 3. Run all cells to:
 
